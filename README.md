@@ -35,4 +35,4 @@ Know more about these from https://docs.djangoproject.com/en/1.11/
 
 ## Ask Me Anything (AMA)
 
-If you have anything to ask about the program, or issues during the program, Create a [new issue here](https://github.com/rrmerugu/FCC-Month-of-Code-Program/issues). In this way, we can preseve the solutions for the problems we solved during the program. 
+If you have anything to ask about the program, or issues during the program, Create a [new issue here](https://github.com/khaledMohammed000/Month-of-python/issues). In this way, we can preseve the solutions for the problems we solved during the program. 
